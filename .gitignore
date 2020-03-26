@@ -1,0 +1,9 @@
+.env
+.env.example
+yarn-error.log
+node_modules
+tmp
+.vscode
+yarn.lock
+package-lock.json
+nodemon.json
