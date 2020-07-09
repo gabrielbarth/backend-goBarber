@@ -79,7 +79,7 @@ Allows inspect and debug your email samples before delivering them to your custo
 #### Development libs: <br>
 :ballot_box_with_check: <a href="https://eslint.org/">**eslint**</a>         `// analyzes your code to quickly find problems` <br>
 :ballot_box_with_check: <a href="https://github.com/remy/nodemon">**nodemon**</a>             `// allows automatically restarting app` <br>
-:ballot_box_with_check: <a href="https://prettier.io/">**prettier**</a>              `// code formatter (as the name says)` <br>
+:ballot_box_with_check: <a href="https://prettier.io/">**prettier**</a>              `//code formatter, makes code prettier` <br>
 :ballot_box_with_check: <a href="https://github.com/sequelize/cli">**sequellize-cli**</a>        `// sequelize client - ORM for SQL databases` <br>
 :ballot_box_with_check: <a href="https://github.com/alangpierce/sucrase">**sucrase**</a>               `//  allows ES6 import/export modules` <br>
 
