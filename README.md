@@ -13,7 +13,7 @@ Backend (node.js) project of  barber shop scheduling app :barber:, developed dur
 <h3 align="center">
 :computer: Web version <a href="https://github.com/gabrielbarth/web-goBarber">here</a>
 <br>
-:iphone: Mobile version <a href="https://github.com/gabrielbarth/mobile-goBarber"> (in progress) </a>
+:iphone: Mobile version <a href="https://github.com/gabrielbarth/mobile-goBarber">here</a>
 </h3>
 
 ##  :mag_right:  Overview 
@@ -53,7 +53,7 @@ Allows inspect and debug your email samples before delivering them to your custo
   <img alt="GoBarber" title="mailtrap" src="./app-images/mailtrap.png" width="900px" /> 
 </p>
 
-##  :link: Project dependencies / Bibliotecas utilizadas
+##  :link: Project dependencies
 
 :ballot_box_with_check: <a href="https://sentry.io/for/node/">**sentry/node**</a>           `// exception handling in production mode` <br>
 :ballot_box_with_check: <a href="https://github.com/dcodeIO/bcrypt.js/">**bcryptjs**</a>            `// generate hash though user password`  <br>
@@ -76,7 +76,7 @@ Allows inspect and debug your email samples before delivering them to your custo
 :ballot_box_with_check: <a href="https://github.com/poppinss/youch">**youch**</a>                `// pretty error reporting for Node.js` <br>
 :ballot_box_with_check: <a href="https://github.com/jquense/yup">**yup**</a>                 `// treat validations ` <br>
 
-#### Development libs / Bibliotecas de desenvolvimento utilizadas no projeto: <br>
+#### Development libs: <br>
 :ballot_box_with_check: <a href="https://eslint.org/">**eslint**</a>         `// analyzes your code to quickly find problems` <br>
 :ballot_box_with_check: <a href="https://github.com/remy/nodemon">**nodemon**</a>             `// allows automatically restarting app` <br>
 :ballot_box_with_check: <a href="https://prettier.io/">**prettier**</a>              `// code formatter (as the name says)` <br>
@@ -112,10 +112,28 @@ Some tips about docker:
 6. Run `yarn start` and `yarn queue` to run the servers at `http://localhost:3000`.
 
 
-### Any question?
-Send an email to me: gabrielbarth98@gmail.com.
+
+## :bulb: :handshake: Contributing
+Please feel free to contributing and submitting pull requests.
 
 
+## :pray: Acknowledgments
+* Rocketseat team
+* Rocketseat community
 
+
+## :thinking: Any question?
+
+**Contact me on my social medias:**<br>
+[LinkedIn](https://www.linkedin.com/in/gabriel-barth-silv%C3%A9rio-6081ba153/) <br>
+[Instagram](https://instragram.com/gb1.dev) <br>
+[YouTube](https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw) <br>
+[Discord](https://www.wikihow.com/Add-Friends-on-Discord) (**gabrielbarth1#0492**)<br>
+Or send me an email :incoming_envelope:: gabrielbarth.dev@gmail.com.
+<br>
+<br>
+<p align="center">
+  Made with ♥ by <a href="https://gabrielbarth.com">Gabriel Barth</a>
+</p>
 
 
